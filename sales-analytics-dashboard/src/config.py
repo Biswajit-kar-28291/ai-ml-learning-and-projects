@@ -1,0 +1,5 @@
+RAW_DATA_PATH="sales-analytics-dashboard\\data\\raw\Test.csv"
+PROCESSED_DATA_PATH="sales-analytics-dashboard\data\processed\cleaned_sales_data.csv"
+CHARTS_FOLDER = "sales-analytics-dashboard\outputs/charts"
+REPORTS_FOLDER = "sales-analytics-dashboard\outputs/reports"
+DASHBOARD_FOLDER = "sales-analytics-dashboard\outputs/dashboard_data"
