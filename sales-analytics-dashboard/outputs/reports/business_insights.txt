@@ -1,0 +1,22 @@
+Retail Product and Outlet Analytics - Business Insights
+=====================================================
+
+1. Total number of items analyzed: 5681
+2. Average item MRP: 141.02
+3. Maximum item MRP: 266.59
+4. Minimum item MRP: 31.99
+5. Average item weight: 12.7
+
+6. Most common item type: Snack Foods
+7. Most common outlet type: Supermarket Type1
+8. Most common outlet location type: Tier 3
+
+9. Most expensive item details:
+   - Item Identifier: FDR25
+   - Item Type: Canned
+   - Item MRP: 266.5884
+
+10. Recommendation:
+    - Focus on the most frequent item categories for inventory planning.
+    - Analyze high-MRP products separately for premium pricing strategy.
+    - Compare outlet types and location tiers for product placement decisions.
