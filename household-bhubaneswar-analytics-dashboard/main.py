@@ -1,6 +1,7 @@
 from src.data_loader import Dataloader
 from src.cleaner import Datacleaner
 from src.analyzer import analyzer
+from src.visualizer import Datavisualizer
 
 if __name__=="__main__":
     loade=Dataloader()
@@ -16,6 +17,12 @@ if __name__=="__main__":
     print(
     analyze.summary_kpis(cleand_data)
     )
+
+    v=Datavisualizer(cleand_data)
+    v.zone_wise_total_households()
+    v.ward_wise_household_distribution()
+    v.bottom_10_wards()
+    v.household_distribution()
 
 
 
